@@ -21,9 +21,9 @@ timezone: Indonesia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Self proclaimed cool blog                          # the main title
+title: This is a blog                          # the main title
 
-tagline: This is a blog   # it will display as the sub-title
+tagline: Just a blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Just another blog on the internet.
