@@ -17,6 +17,8 @@ I went to a little tangent there xd, moving on,
 Right off the bat, we see a few interesting things namely: create\_password and check\_password.  
 Let's explore create\_password since we encounter them first, type “b create\_password”
 
+## create_password function
+
 ![after "b create_password"](/public/microcorruption - new orleans/2.png)
 
 ```
@@ -151,16 +153,21 @@ Return to main function.
 ## Final check:
 
 Returning to the main function, we’ll see:
+```
 4454:  0f93           tst	r15
+4456:  0520           jnz	$+0xc <main+0x2a>
+```
 Check if r15 is zero. This is the final check which will determine if we’ll unlock the lock or not. 
 
-4456:  0520           jnz	$+0xc <main+0x2a>
-Since r15 isn’t zero, we jump to
+Since r15 isn’t zero, we jump to:
+
+```
 4462:  3f40 2045      mov	#0x4520 "Access Granted!", r15
+```
 
 ![unlocked](/public/microcorruption - new orleans/6.png)
 
-And with that, we unlock the lock ;)
+Done 😉️
 
 
 
