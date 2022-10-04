@@ -2,7 +2,7 @@
 title: What I think the most important lesson I've learned through philosophy 
 date: 2022-09-12 12:00:00 +7
 categories: [philosophy]
-tags: [philosophy, random_thoughts]
+tags: [philosophy]
 ---
 
 
