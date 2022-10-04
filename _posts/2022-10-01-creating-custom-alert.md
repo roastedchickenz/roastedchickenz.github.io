@@ -4,7 +4,7 @@ date: 2022-10-01 10:00:00 +7
 categories: [elasticsearch]
 tags: [elasticsearch, abuseipdb, 3rd party threat intel]
 ---
-This post is made possible by collaborating with [Juan Matthew](github.com/juan-matt). Go check him out! ;)
+This post is made possible by collaborating with [Juan Matthew](https://github.com/juan-matt). Go check him out! ;)
 
 This is the second part of the elasticsearch blog. In the first part, I discuss how to setup your parent server and child server using elasticsearch, Kibana, and elasticagent.  
 If you haven't setup yours, then I recommend to give it a read first. 

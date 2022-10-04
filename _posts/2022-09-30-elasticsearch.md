@@ -4,7 +4,7 @@ date: 2022-09-30 10:00:00 +7
 categories: [elasticsearch]
 tags: [elasticsearch, setup]
 ---
-This post is made possible by collaborating with [Juan Matthew](github.com/juan-matt). Go check him out! ;)
+This post is made possible by collaborating with [Juan Matthew](https://github.com/juan-matt). Go check him out! ;)
 
 In this posts, I will try to guide you to setup a parent server with 1 child server (to add more than 1 child server, simply repeat the steps to add add a child server) using elasticsearch, kibana, and elastic agent.
 
