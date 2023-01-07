@@ -1,6 +1,6 @@
 ---
 title: Playing with the Diva (android) - Part 2
-date: 2022-12-25 10:00:00 +7
+date: 2023-01-07 23:00:00 +7
 categories: [portable-computer]
 tags: [ctf, android, diva-android]
 ---
