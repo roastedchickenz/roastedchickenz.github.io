@@ -2,7 +2,7 @@
 title: Playing with the Diva (android) - Part 1
 date: 2022-12-24 10:00:00 +7
 categories: [portable-computer]
-tags: [ctf, android]
+tags: [ctf, android, diva-android]
 ---
 
 Today I'm going to share my experience playing [diva-android](https://github.com/payatu/diva-android) for the first time.  
